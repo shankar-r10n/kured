@@ -46,7 +46,7 @@ compatibility of one minor version between client and server:
 | 1.1.0  | 1.12.1  | v9.0.0           | release-1.12        | 1.11.x, 1.12.x, 1.13.x            |
 | 1.0.0  | 1.7.6   | v4.0.0           | release-1.7         | 1.6.x, 1.7.x, 1.8.x               | 
 
-See the [release notes](https://github.com/weaveworks/kured/releases)
+See the <a href="https://github.com/weaveworks/kured/releases" target="_blank">[release notes]</a>
 for specific version compatibility information, including which
 combination have been formally tested.
 
